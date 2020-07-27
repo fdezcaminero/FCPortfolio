@@ -46,6 +46,10 @@
     margin-left: 20px;
 }
 
+.height25 {
+    height: 25px;
+}
+
 .blackhov:hover {
     color: black;
 }
