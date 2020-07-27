@@ -1,3 +1,17 @@
-# FC's Portfolio CSS
+.no-deco {
+	 text-decoration: none;
+}
 
+.orange-bg {
+    background-color: orange;
+    color: white;
+}
 
+.black-bg {
+    background-color: black;
+    color: white;
+}
+
+.main-stuff:hover {
+    border-style: solid;
+}
