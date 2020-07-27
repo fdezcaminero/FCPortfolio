@@ -1,5 +1,14 @@
+@font-face {
+    src: url(../fonts/Pixeboy-z8XGD.ttf);
+    font-family: Pixeboy;
+}
+
+#btnLeft:active {
+    
+}
+
 .no-deco {
-	 text-decoration: none;
+    text-decoration: none;
 }
 
 .orange-bg {
@@ -15,3 +24,37 @@
 .main-stuff:hover {
     border-style: solid;
 }
+
+.pix-font {
+    font-family: Pixeboy, Arial, sans-serif;
+}
+
+.header40px {
+    font-size: 40px;
+}
+
+.font30px {
+    font-size: 30px;
+}
+
+.crazy-parragraph {
+    line-height: 27px;
+    margin-left: 20px;
+}
+
+.blackhov:hover {
+    color: black;
+}
+
+.redhov:hover {
+    color: red;
+}
+
+/*
+@media only screen and (min-width: 768px) {
+    aside {
+	position: fixed;
+    }
+
+}
+*/
