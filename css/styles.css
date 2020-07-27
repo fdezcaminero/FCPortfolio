@@ -7,6 +7,10 @@
     
 }
 
+.white-text {
+    color: white;
+}
+
 .no-deco {
     text-decoration: none;
 }
@@ -48,6 +52,11 @@
 
 .redhov:hover {
     color: red;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
 }
 
 /*
