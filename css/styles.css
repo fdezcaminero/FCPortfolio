@@ -46,6 +46,10 @@
     margin-left: 20px;
 }
 
+.svg-white {
+    fill: white;
+}
+
 .height25 {
     height: 25px;
 }
