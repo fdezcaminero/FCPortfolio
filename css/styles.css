@@ -25,6 +25,10 @@
     color: white;
 }
 
+.main-stuff {
+    background-color: #40E0D0;
+}			  
+
 .main-stuff:hover {
     border-style: solid;
 }
